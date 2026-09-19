@@ -1,0 +1,6 @@
+{
+    "expr": "λ($arg1, $arg2)<a<n>+:o>{[$arg1, $arg2]}([1, 2], [3, 4], [5, 6])",
+    "dataset": null,
+    "bindings": {},
+    "result": [1, 2, 3, 4]
+}

@@ -298,7 +298,7 @@ const signature = (() => {
                                     validatedArgs.push(arg);
                                     argIndex++;
                                 } else {
-                                    validatedArgs.push(arg);
+                                    validatedArgs.push(args[argIndex]);
                                     argIndex++;
                                 }
                             });

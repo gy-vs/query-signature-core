@@ -1,0 +1,6 @@
+{
+    "expr": "λ($arg1, $arg2, $arg3)<s+>{[$arg1, $arg2, $arg3]}(\"x\", \"y\", \"z\")",
+    "dataset": null,
+    "bindings": {},
+    "result": ["x", "y", "z"]
+}
