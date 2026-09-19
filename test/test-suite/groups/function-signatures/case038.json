@@ -1,0 +1,10 @@
+{
+    "expr": "λ($a, $b, $c)<s+>{[$a, $b, $c]}(\"x\", \"y\", \"z\")",
+    "dataset": null,
+    "bindings": {},
+    "result": [
+        "x",
+        "y",
+        "z"
+    ]
+}

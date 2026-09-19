@@ -1,0 +1,10 @@
+{
+    "expr": "λ($a, $b, $c)<n+s:a<n>>{[$a, $b, $c]}(1, 2, \"a\")",
+    "dataset": null,
+    "bindings": {},
+    "result": [
+        1,
+        2,
+        "a"
+    ]
+}

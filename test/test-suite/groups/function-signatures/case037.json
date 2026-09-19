@@ -1,0 +1,9 @@
+{
+    "expr": "λ($a, $b)<n+n:o>{[$a, $b]}(1, 2, 3)",
+    "dataset": null,
+    "bindings": {},
+    "result": [
+        1,
+        2
+    ]
+}

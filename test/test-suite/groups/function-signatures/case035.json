@@ -1,0 +1,9 @@
+{
+    "expr": "λ($arg1, $arg2)<n+>{[$arg1, $arg2]}(1, 2)",
+    "dataset": null,
+    "bindings": {},
+    "result": [
+        1,
+        2
+    ]
+}

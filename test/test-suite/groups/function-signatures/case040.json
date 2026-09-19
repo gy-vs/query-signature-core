@@ -1,0 +1,9 @@
+{
+    "expr": "λ($a, $b)<n+>{[$a, $exists($b)]}(1)",
+    "dataset": null,
+    "bindings": {},
+    "result": [
+        1,
+        false
+    ]
+}
